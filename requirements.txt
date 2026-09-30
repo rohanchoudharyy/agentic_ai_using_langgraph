@@ -1,0 +1,14 @@
+faiss-cpu
+ipykernel
+jupyter
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-mcp-adapters
+langchain-openai
+langgraph
+pypdf
+python-dotenv
+requests
+duckduckgo-search
