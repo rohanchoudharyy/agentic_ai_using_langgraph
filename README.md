@@ -1,6 +1,6 @@
 # LangGraph Agentic AI Learning
 
-This repository is a hands-on learning journal following a tutorial on agentic AI with LangGraph. It contains small notebooks and Python examples that build up concepts step by step, from basic workflows to tools, persistence, human approval, MCP, and RAG.
+This repository is a hands-on learning journal following a [tutorial](https://www.youtube.com/watch?v=yC36gN-rqjo&list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL&index=1) on agentic AI with LangGraph. It contains small notebooks and Python examples that build up concepts step by step, from basic workflows to tools, persistence, human approval, MCP, and RAG.
 
 ## Learning Path
 
